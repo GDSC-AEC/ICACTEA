@@ -1,0 +1,6 @@
+/* Aditya logo display on screen */
+@media (max-width: 500px) {
+    img.dude {
+      display: none;
+    }
+  }
